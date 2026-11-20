@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Social Ops">
+  <rect width="128" height="128" rx="28" fill="#ffffff"/>
+  <defs>
+    <linearGradient id="goldFade" x1="32" y1="64" x2="82" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#c8a66a"/>
+    </linearGradient>
+  </defs>
+  <path
+    d="M87 29H55c-17 0-30 13-30 30s13 30 30 30h18c9 0 16 7 16 16s-7 16-16 16H34"
+    fill="none"
+    stroke="#111827"
+    stroke-width="13"
+    stroke-linecap="square"
+    stroke-linejoin="round"
+    transform="translate(5 -11)"
+  />
+  <path
+    d="M55 72H39c-9 0-16-7-16-16"
+    fill="none"
+    stroke="url(#goldFade)"
+    stroke-width="13"
+    stroke-linecap="round"
+    transform="translate(15 0)"
+  />
+  <circle cx="68" cy="73" r="8" fill="#c8a66a"/>
+</svg>
